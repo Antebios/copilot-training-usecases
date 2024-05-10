@@ -1,0 +1,9 @@
+site_name: GitHub CoPilot Training Use-Cases Guide
+site_description: A guide to using GitHub CoPilot for training use-cases
+site_author: Richard Nunez
+
+theme:
+  name: material
+  # palette:
+  #   primary: green
+  #   accent: light green
